@@ -1,1 +1,2 @@
 <?php
+    $titulo = "Página principal";
