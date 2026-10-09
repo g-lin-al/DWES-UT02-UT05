@@ -1,15 +1,12 @@
-<?php
-    $titulo = "";
-?>
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><?php $titulo ?></title>
+    <title><?php echo $titulo ?></title>
+    <link rel="stylesheet" href="./CSS/style.css">
 </head>
 <body>
     <header>
-        <?php $titulo ?>
+        <?php echo "$titulo"; ?>
     </header>
