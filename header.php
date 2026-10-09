@@ -1,5 +1,5 @@
 <?php
-
+    $titulo = "";
 ?>
 
 <!DOCTYPE html>
@@ -10,8 +10,3 @@
     <title><?php $titulo ?></title>
 </head>
 <body>
-    <header>
-        
-    </header>
-</body>
-</html>
