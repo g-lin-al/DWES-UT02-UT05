@@ -10,3 +10,6 @@
     <title><?php $titulo ?></title>
 </head>
 <body>
+    <header>
+        <?php $titulo ?>
+    </header>
