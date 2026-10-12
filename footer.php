@@ -1,3 +1,3 @@
-    <footer>GLA &reg; v1.0 2026-2027</footer>
+    <footer>GLA &reg; v0.1 2026-2027</footer>
 </body>
 </html>
