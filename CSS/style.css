@@ -19,3 +19,7 @@ main {
     width: 65%;
     display: inline-block;
 }
+
+a {
+    text-decoration: none;
+}

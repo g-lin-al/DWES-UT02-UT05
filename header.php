@@ -8,5 +8,8 @@
 </head>
 <body>
     <header>
-        <?php echo "$titulo"; ?>
+        <?php 
+        echo "$titulo";
+        include 'login.php';
+        ?>
     </header>
