@@ -1,5 +1,9 @@
-footer {
+footer, header {
     background-color: grey;
     padding: 10px 0px;
     text-align: center;
+}
+
+nav {
+    width: 30%;
 }
