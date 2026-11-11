@@ -16,6 +16,8 @@
             </thead>
             <tbody>
                 <!-- Tabla generada -->
+                <!-- los td de esta tabla son editables, generados inputs -->
+                <!-- (hacer después de los otros) -->
             </tbody>
         </table>
     </main>

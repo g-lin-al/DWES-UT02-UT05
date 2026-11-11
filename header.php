@@ -13,3 +13,4 @@
         include 'login.php';
         ?>
     </header>
+<!-- Incluir el título solamente aquí -->

@@ -5,8 +5,11 @@
 ?>
 
     <main>
+        <!-- Quedan DOS <form> -->
         <button>Comprobar ofertas</button><br>
+        <!-- El primer form de la comprobación de ofertas -->
         <button>Finalizar pedido</button><br>
+        <!-- El segundo form de finalizar pedido y generar factura (hacia otro fichero) -->
         <table id="tabla_pedido">
             <thead>
                 <th>Nombre</th>
@@ -19,6 +22,8 @@
             </thead>
             <tbody>
                 <!-- Generación de tabla a partir de los datos de productos -->
+                <!-- include del modelo de datos del menú  -->
+                 <!-- CREAR factura -->
             </tbody>
         </table>
     </main>

@@ -14,6 +14,7 @@
             </thead>
             <tbody>
                 <!-- Tabla generada a través de las consultas de clientes -->
+                <!-- Iteras una lista de usuarios, se compara el nombre, y se le suman el número de pedidos y también el total de gasto (arrays bidimensionales) -->
             </tbody>
         </table>
     </main>
