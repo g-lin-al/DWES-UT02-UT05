@@ -5,7 +5,7 @@
     // Meter un include de config con las variables generales, estilo titulo, y otro con tools para métodos etc
 ?>
 
-    <!-- Ta bien pero debería ser un bloque php para gestionar el main -->
+    <!-- Está bien pero debería ser un bloque php para gestionar el main -->
     <main>
         <p>Bienvenido. Por favor inicia sesión o crea un usuario.</p>
     </main>

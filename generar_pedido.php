@@ -23,7 +23,7 @@
             <tbody>
                 <!-- Generación de tabla a partir de los datos de productos -->
                 <!-- include del modelo de datos del menú  -->
-                 <!-- CREAR factura -->
+                <!-- CREAR factura -->
             </tbody>
         </table>
     </main>
